@@ -25,4 +25,4 @@ Mockup illustrations are present in the Assignment documents.
 - [Module 2 Solution](https://khushir1470.github.io/Assignment/module2-solution/index.html)
 - [Module 3 Solution](https://khushir1470.github.io/Assignment/module3-solution/index.html)
 - [Module 4 Solution](https://khushir1470.github.io/Assignment/module4-solution/index.html)
-- [Module 5 Solution](https://khushir1470.github.io/Assignment/module5-solution/index.html)
+- [Module 5 Solution](https://khushir1470.github.io/Assignment/module5_solution/index.html)
