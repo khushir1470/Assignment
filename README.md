@@ -1,4 +1,4 @@
-# Coursera-WebDev-JHU-Assignments
+# Coursera-Assignments
 
 ### HTML, CSS, JavaScript for Web Developers
 #### Johns Hopkins University
@@ -22,7 +22,7 @@ Mockup illustrations are present in the Assignment documents.
 
 **Solution Links:**
 
-- [Module 2 Solution]()
+- [Module 2 Solution](https://khushir1470.github.io/Assignment/module2-solution/index.html)
 - [Module 3 Solution]()
 - [Module 4 Solution]()
 - [Module 5 Solution]()
