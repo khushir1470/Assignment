@@ -9,7 +9,7 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 ---
 **Assignment Links:**
 
-- [Module 2 Assignment](https://github.com/khushir1470/Assignment/tree/main/module2-solution)
+- [Module 2 Assignment](https://docs.google.com/document/d/1a4T43GiJv7HzYVTR1wgrBngHIWnornw9opPYTNaKQyY)
 
 - [Module 3 Assignment]()
 
